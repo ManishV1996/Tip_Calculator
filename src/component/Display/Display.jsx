@@ -1,10 +1,10 @@
 import React from "react";
 import { useState } from 'react';
-import Header from "../header/header";
-import Input from "../input/input";
 import './Display.css';
-import Output from "../output/output";
-import Footer from "../footer/footer";
+import Header from "../Header/Header";
+import Footer from "../Footer/Footer";
+import Output from "../Output/Output";
+import Input from "../Input/Input";
 
 
 const Display=()=>{
